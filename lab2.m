@@ -1,3 +1,5 @@
+%Implementation of simple neural networks with array of inputs and array of weights and plotting input versus output
+
  x=[-25;0.1;+25]; % array of input values
  w=[-1.0;0.04;+1.0]; % & array of weight values
  b=-1.0; % bias
