@@ -1,3 +1,5 @@
+% Implementation of simple neural network with single layer.
+
  x=[3 2 6]; % input values
  w=[0.5 0.6 0.1]; % weight values
  b=-1.0; % bias
